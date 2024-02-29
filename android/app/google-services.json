@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "59002806726",
+    "project_id": "flutter-pushnotification100day",
+    "storage_bucket": "flutter-pushnotification100day.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:59002806726:android:dc7d49799fd68179cad2c7",
+        "android_client_info": {
+          "package_name": "com.example.flutter_100days"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDgBqlVi077h7hynXNJaSBbSb1ZsJlMsI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
